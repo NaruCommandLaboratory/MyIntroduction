@@ -1,2 +1,5 @@
-# MyIntroduction
-自己紹介をします
+# 僕について
+
+僕は主にYouTubeでMinecraftBedrock版のコマンドを紹介しています。
+ほとんどコマンドがメインですが、アドオンなどもやるときもあります。
+ScriptAPIなどをやることが多いです。
