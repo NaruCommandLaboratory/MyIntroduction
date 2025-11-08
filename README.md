@@ -15,7 +15,9 @@ Minecraft BEのScriptAPIを使ったアドオン制作や、UI演出・OPアイ�
 ぜひチャンネル登録＆コメントで仲良くしてくださいね！
 # 関連のページ
 YouTube↴
+
 https://www.youtube.com/@NaruCmdLab(https://www.youtube.com/@NaruCmdLab)
 
 Discord↴
+
 (https://discord.gg/98vzZsArdc)(https://discord.gg/98vzZsArdc)
